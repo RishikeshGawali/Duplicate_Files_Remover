@@ -1,4 +1,3 @@
-
 # Duplicate File Remover
 
 ## Description
